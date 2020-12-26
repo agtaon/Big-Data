@@ -3,7 +3,7 @@ Code and results from projects in Big Data
 
 Poject 1:
 Investigating the impact of different classification algorithms when subjected to mislabeling in the training data. 
-The classifiers were: k-Nearest Neighbours and Linear Regression
+The classifiers were: k-Nearest Neighbours and Linear Regression.
 Code and Pdf
 
 
